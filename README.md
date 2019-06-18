@@ -1,8 +1,5 @@
-# INSIGHT
-
-TORONTO MOVES - Summer 2019
-
-Forecasting neighbourhood population economics
+# TORONTO MOVES - Summer 2019
+## Forecasting neighbourhood population economics
 
 ### Introduction
 This project provides a data-driven tool for city of toronto to predict the migration of low-income population in different nighbourhoods. This tool helps the city management to plan business investments, and modify policies for cummunity development ahead of time for 2021. The web-app tool is available at https://insight-242021.appspot.com. 

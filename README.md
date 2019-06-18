@@ -27,5 +27,6 @@ Following show the screenshots of the web-app.
 After choosing the desired neighbourhood from the drop-down menu, you click on the MAP button. The result will include the change in low-income population change in year 2021 for the chosen neighbourhood. 
 
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/hadimoein/INSIGHT/master/Images/Image%202019-05-31%20at%207.43%20AM.jpg"></img>
+  <img width="500" src="https://github.com/hadimoein/INSIGHT/blob/master/Images/Image%202019-06-18%20at%2011.11%20AM.jpg"></img>
 </p>
+

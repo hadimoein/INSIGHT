@@ -2,7 +2,7 @@
 ## Forecasting neighbourhood population economics
 
 ### Introduction
-This project provides a data-driven tool for city of toronto to predict the migration of low-income population in different nighbourhoods. This tool helps the city management to plan business investments, and modify policies for cummunity development ahead of time for 2021. The web-app tool is available at https://insight-242021.appspot.com. 
+This project provides a data-driven tool for city of toronto to predict the migration of low-income population in different nighbourhoods. This tool helps the city management to plan business investments, and modify policies for cummunity development ahead of time for 2021. The web-app tool is available at https://toronto-moves-insight.appspot.com. 
 
 ### Data Source
 There are three sources of data: 
@@ -30,3 +30,5 @@ After choosing the desired neighbourhood from the drop-down menu, you click on t
   <img width="500" src="https://github.com/hadimoein/INSIGHT/blob/master/Images/Image%202019-06-18%20at%2011.11%20AM.jpg"></img>
 </p>
 
+The presentation file for the project is available at:
+https://docs.google.com/presentation/d/1XXrw_2U1U3Ov2Kj08KXUyQU00a1py8foRc5nJ7SrmKk/edit?usp=sharing
